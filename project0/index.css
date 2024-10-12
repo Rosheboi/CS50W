@@ -23,6 +23,7 @@ nav div {
 nav a {
   text-decoration: none;
   color: black;
+  font-size: 13px;
 
 }
 
@@ -185,5 +186,7 @@ nav a:hover {
   color:#4285f4;
   font:16px/16px Arial,sans-serif;
   position:absolute;
-  left:800px;
-  bottom:700;white-space:nowrap}
+  left:55.8%;
+  bottom:48.4%;
+  white-space:nowrap;
+}
